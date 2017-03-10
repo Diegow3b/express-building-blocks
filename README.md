@@ -1,5 +1,3 @@
-# express-building-blocks
-Easy Crud with Express
 # Express Building Blocks
 Obs.: Example following codeschool tutorial
 
